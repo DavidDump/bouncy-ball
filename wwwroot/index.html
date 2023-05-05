@@ -26,8 +26,8 @@
                 if(value > 200){
                     clearInterval(animate);
                 }
-                const Pos = 50.0*(-1 + Math.cos(value/5.0)) * Math.exp(-value/50.0);
-                $("#ballGroup").attr("transform", `translate(0, ${Pos})`);
+                const Pos = 50.0 * (-1 + Math.cos(value / 5.0)) * Math.exp(-value / 50.0);
+                $("#groupBall").attr("transform", `translate(0, ${Pos})`);
             }, 16);
         }
     </script>

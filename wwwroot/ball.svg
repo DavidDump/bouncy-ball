@@ -25,8 +25,8 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="1.4912879"
-     inkscape:cx="362.43841"
-     inkscape:cy="346.00965"
+     inkscape:cx="373.16738"
+     inkscape:cy="294.37642"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
      inkscape:window-x="-8"
@@ -47,52 +47,52 @@
        x="0"
        y="97.895836" />
     <g
-       id="ballGroup">
+       id="groupBall">
       <ellipse
-         style="fill:#ff0000;stroke-width:0.52916667;stroke:#000000;stroke-opacity:1;stroke-dasharray:none"
+         style="fill:#ff0000;stroke:#000000;stroke-width:0.529167;stroke-dasharray:none;stroke-opacity:1"
          id="ball"
-         cx="99.088707"
-         cy="70.967743"
+         cx="102.45967"
+         cy="103.96774"
          rx="15"
          ry="15.258064" />
       <circle
          style="fill:#ffffff;stroke:#000000;stroke-width:0.529167;stroke-dasharray:none;stroke-opacity:1"
          id="path1056"
-         cx="102.45968"
-         cy="64.1371"
+         cx="105.83064"
+         cy="97.1371"
          r="2.5725808" />
       <ellipse
          style="fill:#ffffff;stroke:#000000;stroke-width:0.529167;stroke-dasharray:none;stroke-opacity:1"
          id="path1058"
-         cx="95.096771"
-         cy="78.8629"
+         cx="98.467735"
+         cy="111.8629"
          rx="2.6612904"
          ry="2.3951612" />
       <circle
          style="fill:#ffffff;stroke:#000000;stroke-width:0.529167;stroke-dasharray:none;stroke-opacity:1"
          id="path1060"
-         cx="106.80645"
-         cy="74.870972"
+         cx="110.17741"
+         cy="107.87097"
          r="2.4838707" />
       <ellipse
          style="fill:#ffffff;stroke:#000000;stroke-width:0.529167;stroke-dasharray:none;stroke-opacity:1"
          id="path1062"
-         cx="89.8629"
-         cy="67.241936"
+         cx="93.233864"
+         cy="100.24194"
          rx="2.75"
          ry="2.6612904" />
       <ellipse
          style="fill:#ffffff;stroke:#000000;stroke-width:0.529167;stroke-dasharray:none;stroke-opacity:1"
          id="path1064"
-         cx="98.379028"
-         cy="72.564514"
+         cx="101.74999"
+         cy="105.56451"
          rx="2.0403225"
          ry="2.1290321" />
       <ellipse
          style="fill:#ffffff;stroke:#000000;stroke-width:0.529167;stroke-dasharray:none;stroke-opacity:1"
          id="path1066"
-         cx="95.540321"
-         cy="60.322582"
+         cx="98.911285"
+         cy="93.322586"
          rx="2.217742"
          ry="1.9516129" />
     </g>
