@@ -1,6 +1,6 @@
 ## Tobbi Feladat
-[breakout](https://github.com/DavidDump/breakout) \
-[weather](https://github.com/DavidDump/weather)
+- [breakout](https://github.com/DavidDump/breakout)
+- [weather](https://github.com/DavidDump/weather)
 
 ## Feladat
 | Feladatrész | Részpontszám |
